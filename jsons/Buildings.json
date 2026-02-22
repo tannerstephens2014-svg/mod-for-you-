@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "tanis circus",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "taniknights",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -13,9 +13,9 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "funpark",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "taniknights",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
