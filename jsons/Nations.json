@@ -1,6 +1,6 @@
 [
 	{
-		"name": "taninights",
+		"name": "taniknights",
 		"leaderName": "tanner ",
 		"adjective": ["human "],
 		"startBias": ["Snow"],
@@ -11,7 +11,7 @@
 		
 		"declaringWar": "you trader you will be destroyed in 2 secoounts !",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those dumbies  hurt us? The taninight senate will take care of them.",
+		"defeated": "How is it possible that those dumbies  hurt us? The taniknight senate will take care of them.",
 		"introduction": "As superior taninight  entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
@@ -19,7 +19,7 @@
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What do you want now i hate you?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
@@ -30,9 +30,10 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["tanland","Q'music city ","Q'rockodoms","Q'kittykingdom ","Q'saxvill","Q'otomatown","Q"caming city,"Q'greyson town","Q'magusvill",
+			"Q'golbal city","Q'taniknight city","Q'masuge town ","Q'pandia drum city","Q'hat town ","Q'china town ","Q'pencl vill","Q'shirt town ","Q'erhuvill","Q'waterbottle city",
+		
+"]
 	}
 ]
+p
